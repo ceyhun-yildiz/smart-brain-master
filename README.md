@@ -1,5 +1,5 @@
 # SmartBrain - v3
-Final project for ZTM course
+Final project
 
 
 1. Clone this repo
